@@ -129,8 +129,7 @@ appsettings.json
 local.settings.json
 .python_packages
 .vscode
-local.settings.json
 test
-.venv
 *.pkl
 *.pth
+*.zip

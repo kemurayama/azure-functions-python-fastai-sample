@@ -3,3 +3,7 @@
 local.settings.json
 test
 .venv
+img/
+LISCENSE
+README.md
+*.ipynb
