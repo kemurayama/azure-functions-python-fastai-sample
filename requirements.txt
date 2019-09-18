@@ -1,0 +1,2 @@
+fastai==1.0.57
+aiohttp==3.6.0
