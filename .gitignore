@@ -128,8 +128,10 @@ obj
 appsettings.json
 local.settings.json
 .python_packages
-.vscode
+
 test
 *.pkl
 *.pth
 *.zip
+azure-functions-python-fastai-sample.zip
+.vscode
